@@ -1,0 +1,15 @@
+
+
+.allCard {
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
+}
+
+.cardLesson {
+    border: 2px solid red;
+    position: relative;
+    
+}
+
+

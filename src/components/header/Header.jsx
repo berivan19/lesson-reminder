@@ -1,8 +1,9 @@
 import React from 'react'
+import "./Header.css";
 
 const Header = () => {
   return (
-    <div>
+    <div className='header'>
         <div>
         <img
             src="https://clarusway.com/wp-content/uploads/2022/12/clarusway-logo-black.png"

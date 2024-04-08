@@ -1,11 +1,13 @@
 
 import './App.css';
 import Header from './components/header/Header';
-import {data} from "./helper/data"
+import LessonCard from './components/lessonCard/LessonCard';
+
 function App() {
   return (
     <div className="App">
     <Header/>
+    <LessonCard/>
     </div>
   );
 }
